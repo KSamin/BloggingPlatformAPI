@@ -3,6 +3,8 @@
 This is a CRUD-based Blogging Platform REST API built using Spring Boot and MongoDB,
 designed to help learn REST principles, HTTP methods, status codes, and database operations.
 
+project URL : https://roadmap.sh/projects/blogging-platform-api
+
 ## Features
 * Create a new blog post
 
